@@ -42,7 +42,11 @@ It provides hands-on understanding of how **data flows in networks** and gives a
 1. Update system and install Python:
    ```bash
    sudo apt update && sudo apt upgrade -y
-sudo pip3 install scapy
-git clone https://github.com/YourUsername/CodeAlpha_NetworkSniffer.git
-cd CodeAlpha_NetworkSniffer
-sudo python3 sniffer.py
+   ```bash
+   sudo pip3 install scapy
+   ```bash
+   git clone https://github.com/YourUsername/CodeAlpha_NetworkSniffer.git
+   ```bash
+   cd CodeAlpha_NetworkSniffer
+   ```bash
+   sudo python3 sniffer.py
