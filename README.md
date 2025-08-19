@@ -34,3 +34,15 @@ It provides hands-on understanding of how **data flows in networks** and gives a
 ---
 
 ## 📂 Repository Structure
+
+---
+
+## 🚀 Installation & Setup
+
+1. Update system and install Python:
+   ```bash
+   sudo apt update && sudo apt upgrade -y
+sudo pip3 install scapy
+git clone https://github.com/YourUsername/CodeAlpha_NetworkSniffer.git
+cd CodeAlpha_NetworkSniffer
+sudo python3 sniffer.py
